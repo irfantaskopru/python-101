@@ -3,9 +3,9 @@ weight = 1.5
 #Ground Shipping Cost
 if weight <= 2 :
   cost = weight * 1.5 + 20
-elif (weight > 2) and (weight <= 6):
+elif weight <= 6:
   cost = weight * 3 + 20 
-elif (weight > 6) and (weight <= 10):
+elif weight <= 10:
   cost = weight * 4 + 20 
 else:
   cost = weight * 4.75 + 20 
