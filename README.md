@@ -1,2 +1,2 @@
-# python-101
-Basic examples
+# Python-101
+Python basic example solutions
