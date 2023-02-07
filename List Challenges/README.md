@@ -1,4 +1,4 @@
-# ********** List Exercise **********
+# 🌟🌟🌟 List Exercise 🌟🌟🌟
 # 1. Append Size
 # 2. Append Sum
 # 3. Larger List
